@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Case Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <parameter name="browser" value="chrome"/>
+  <test thread-count="5" name="Test1(failed)" verbose="0">
+    <groups>
+      <run>
+        <include name="regression"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.testCases.ExampleTC1">
+        <parameter name="url" value="www.google.com"/>
+        <methods>
+          <include name="afterSuite"/>
+          <include name="beforeSuite"/>
+          <include name="afterClass"/>
+          <include name="test1"/>
+          <include name="test3"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.testCases.ExampleTC1 -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [All Test Case Suite] -->

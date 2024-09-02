@@ -1,0 +1,250 @@
+2024-09-01 02:15:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\monty\git\testNgLearning\testng.xml
+
+2024-09-01 02:15:57 INFO  Log:10 - ExampleTC1 : test1
+2024-09-02 01:34:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\monty\git\testNgLearning\testng.xml
+
+2024-09-02 01:34:03 INFO  Log:10 - browser Value came from TestNG xml: chrome
+2024-09-02 01:34:03 INFO  Log:10 - browser Value came from env variable by command line xml: chrome
+2024-09-02 01:34:05 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-02 01:34:05 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\monty\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
+2024-09-02 01:34:08 INFO  Log:10 - Driver initiated
+2024-09-02 01:34:08 INFO  Log:10 - URL for the Class from TestNg XML as parameterhttps://www.saucedemo.com/v1/
+2024-09-02 01:34:08 INFO  Log:10 - URL https://www.saucedemo.com/v1/ launched
+2024-09-02 01:34:09 INFO  Log:10 - in the Tear down function and quiting Driver
+2024-09-02 01:34:10 INFO  Log:10 - browser Value came from TestNG xml: chrome
+2024-09-02 01:34:10 INFO  Log:10 - browser Value came from env variable by command line xml: chrome
+2024-09-02 01:34:10 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-02 01:34:10 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\monty\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
+2024-09-02 01:34:11 INFO  Log:10 - Driver initiated
+2024-09-02 01:34:11 INFO  Log:10 - URL for the Class from TestNg XML as parameterwww.bing.com
+2024-09-02 01:35:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\monty\git\testNgLearning\testng.xml
+
+2024-09-02 01:35:09 INFO  Log:10 - browser Value came from TestNG xml: chrome
+2024-09-02 01:35:09 INFO  Log:10 - browser Value came from env variable by command line xml: chrome
+2024-09-02 01:35:10 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-02 01:35:10 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\monty\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
+2024-09-02 01:35:13 INFO  Log:10 - Driver initiated
+2024-09-02 01:35:13 INFO  Log:10 - URL for the Class from TestNg XML as parameterhttps://www.saucedemo.com/v1/
+2024-09-02 01:35:15 INFO  Log:10 - URL https://www.saucedemo.com/v1/ launched
+2024-09-02 01:35:15 INFO  Log:10 - in the Tear down function and quiting Driver
+2024-09-02 01:38:25 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\monty\git\testNgLearning\testng.xml
+
+2024-09-02 01:38:25 INFO  Log:10 - browser Value came from TestNG xml: chrome
+2024-09-02 01:38:25 INFO  Log:10 - browser Value came from env variable by command line xml: chrome
+2024-09-02 01:38:25 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-02 01:38:25 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\monty\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
+2024-09-02 01:38:27 INFO  Log:10 - Driver initiated
+2024-09-02 01:38:27 INFO  Log:10 - URL for the Class from TestNg XML as parameterhttps://www.saucedemo.com/v1/
+2024-09-02 01:38:28 INFO  Log:10 - URL https://www.saucedemo.com/v1/ launched
+2024-09-02 01:38:28 INFO  Log:10 - in the Tear down function and quiting Driver
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 15 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 01:39:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\monty\AppData\Local\Temp\testng-eclipse-853117898\testng-customsuite.xml
+
+2024-09-02 01:39:24 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 15 ms.
+2024-09-02 01:39:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@4612b856: 153 ms
+2024-09-02 01:39:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@b1712f3: 15 ms
+2024-09-02 01:39:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@497486b3: 47 ms
+2024-09-02 01:39:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4b6690c0: 22 ms
+2024-09-02 01:39:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1199fe66: 17 ms
+2024-09-02 01:39:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@614df0a4: 0 ms
+2024-09-02 01:39:37 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\monty\git\testNgLearning\testng.xml
+
+2024-09-02 01:39:37 INFO  Log:10 - browser Value came from TestNG xml: chrome
+2024-09-02 01:39:37 INFO  Log:10 - browser Value came from env variable by command line xml: chrome
+2024-09-02 01:39:38 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-02 01:39:38 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\monty\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
+2024-09-02 01:39:40 INFO  Log:10 - Driver initiated
+2024-09-02 01:39:40 INFO  Log:10 - URL for the Class from TestNg XML as parameterhttps://www.saucedemo.com/v1/
+2024-09-02 01:39:40 INFO  Log:10 - URL https://www.saucedemo.com/v1/ launched
+2024-09-02 01:39:40 INFO  Log:10 - Entering User Name
+2024-09-02 01:39:40 INFO  Log:10 - Entering Password
+2024-09-02 01:39:40 INFO  Log:10 - Clicking Login button 
+2024-09-02 01:39:40 INFO  Log:10 - in the Tear down function and quiting Driver
+2024-09-02 01:58:32 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\monty\git\testNgLearning\testng.xml
+
+2024-09-02 01:58:33 INFO  Log:10 - browser Value came from TestNG xml: chrome
+2024-09-02 01:58:33 INFO  Log:10 - browser Value came from env variable by command line xml: chrome
+2024-09-02 01:58:33 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-02 01:58:33 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\monty\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
+2024-09-02 01:58:35 INFO  Log:10 - Driver initiated
+2024-09-02 01:58:35 INFO  Log:10 - URL for the Class from TestNg XML as parameterhttps://www.saucedemo.com/v1/
+2024-09-02 01:58:36 INFO  Log:10 - URL https://www.saucedemo.com/v1/ launched
+2024-09-02 01:58:36 INFO  Log:10 - Entering User Name
+2024-09-02 01:58:36 INFO  Log:10 - Entering Password
+2024-09-02 01:58:36 INFO  Log:10 - Clicking Login button 
+2024-09-02 01:58:56 INFO  Log:10 - in the Tear down function and quiting Driver
+2024-09-02 02:04:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\monty\git\testNgLearning\testng.xml
+
+2024-09-02 02:04:56 INFO  Log:10 - browser Value came from TestNG xml: chrome
+2024-09-02 02:04:56 INFO  Log:10 - browser Value came from env variable by command line xml: chrome
+2024-09-02 02:04:56 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-02 02:04:56 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\monty\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
+2024-09-02 02:04:59 INFO  Log:10 - Driver initiated
+2024-09-02 02:04:59 INFO  Log:10 - URL for the Class from TestNg XML as parameterhttps://www.saucedemo.com/v1/
+2024-09-02 02:05:02 INFO  Log:10 - URL https://www.saucedemo.com/v1/ launched
+2024-09-02 02:05:02 INFO  Log:10 - Entering User Name
+2024-09-02 02:05:03 INFO  Log:10 - Entering Password
+2024-09-02 02:05:03 INFO  Log:10 - Clicking Login button 
+2024-09-02 02:05:18 INFO  Log:10 - true
+2024-09-02 02:05:18 INFO  Log:10 - in the Tear down function and quiting Driver
+2024-09-02 02:06:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\monty\git\testNgLearning\testng.xml
+
+2024-09-02 02:06:54 INFO  Log:10 - browser Value came from TestNG xml: chrome
+2024-09-02 02:06:54 INFO  Log:10 - browser Value came from env variable by command line xml: chrome
+2024-09-02 02:06:54 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-02 02:06:54 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\monty\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
+2024-09-02 02:06:56 INFO  Log:10 - Driver initiated
+2024-09-02 02:06:56 INFO  Log:10 - URL for the Class from TestNg XML as parameterhttps://www.saucedemo.com/v1/
+2024-09-02 02:06:57 INFO  Log:10 - URL https://www.saucedemo.com/v1/ launched
+2024-09-02 02:06:57 INFO  Log:10 - Entering User Name
+2024-09-02 02:06:57 INFO  Log:10 - Entering Password
+2024-09-02 02:06:57 INFO  Log:10 - Clicking Login button 
+2024-09-02 02:06:57 INFO  Log:10 - true
+2024-09-02 02:06:57 INFO  Log:10 - in the Tear down function and quiting Driver
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 16 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 02:07:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\monty\AppData\Local\Temp\testng-eclipse--676670564\testng-customsuite.xml
+
+2024-09-02 02:07:19 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 0 ms.
+2024-09-02 02:07:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@4612b856: 118 ms
+2024-09-02 02:07:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@b1712f3: 16 ms
+2024-09-02 02:07:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@497486b3: 34 ms
+2024-09-02 02:07:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4b6690c0: 16 ms
+2024-09-02 02:07:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1199fe66: 17 ms
+2024-09-02 02:07:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@614df0a4: 0 ms
+2024-09-02 02:07:33 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\monty\git\testNgLearning\testng.xml
+
+2024-09-02 02:07:33 INFO  Log:10 - browser Value came from TestNG xml: chrome
+2024-09-02 02:07:33 INFO  Log:10 - browser Value came from env variable by command line xml: chrome
+2024-09-02 02:07:33 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-02 02:07:33 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\monty\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
+2024-09-02 02:07:35 INFO  Log:10 - Driver initiated
+2024-09-02 02:07:35 INFO  Log:10 - URL for the Class from TestNg XML as parameterhttps://www.saucedemo.com/v1/
+2024-09-02 02:07:35 INFO  Log:10 - URL https://www.saucedemo.com/v1/ launched
+2024-09-02 02:07:35 INFO  Log:10 - Entering User Name
+2024-09-02 02:07:36 INFO  Log:10 - Entering Password
+2024-09-02 02:07:36 INFO  Log:10 - Clicking Login button 
+2024-09-02 02:07:56 INFO  Log:10 - in the Tear down function and quiting Driver
+2024-09-02 02:08:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\monty\git\testNgLearning\testng.xml
+
+2024-09-02 02:08:17 INFO  Log:10 - browser Value came from TestNG xml: chrome
+2024-09-02 02:08:17 INFO  Log:10 - browser Value came from env variable by command line xml: chrome
+2024-09-02 02:08:17 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-02 02:08:17 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\monty\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
+2024-09-02 02:08:19 INFO  Log:10 - Driver initiated
+2024-09-02 02:08:19 INFO  Log:10 - URL for the Class from TestNg XML as parameterhttps://www.saucedemo.com/v1/
+2024-09-02 02:08:20 INFO  Log:10 - URL https://www.saucedemo.com/v1/ launched
+2024-09-02 02:08:20 INFO  Log:10 - Entering User Name
+2024-09-02 02:08:20 INFO  Log:10 - Entering Password
+2024-09-02 02:08:20 INFO  Log:10 - Clicking Login button 
+2024-09-02 02:08:22 INFO  Log:10 - in the Tear down function and quiting Driver
+2024-09-02 02:08:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\monty\git\testNgLearning\testng.xml
+
+2024-09-02 02:08:56 INFO  Log:10 - browser Value came from TestNG xml: chrome
+2024-09-02 02:08:56 INFO  Log:10 - browser Value came from env variable by command line xml: chrome
+2024-09-02 02:08:56 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-02 02:08:56 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\monty\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
+2024-09-02 02:08:59 INFO  Log:10 - Driver initiated
+2024-09-02 02:08:59 INFO  Log:10 - URL for the Class from TestNg XML as parameterhttps://www.saucedemo.com/v1/
+2024-09-02 02:08:59 INFO  Log:10 - URL https://www.saucedemo.com/v1/ launched
+2024-09-02 02:08:59 INFO  Log:10 - Entering User Name
+2024-09-02 02:08:59 INFO  Log:10 - Entering Password
+2024-09-02 02:08:59 INFO  Log:10 - Clicking Login button 
+2024-09-02 02:08:59 INFO  Log:10 - true
+2024-09-02 02:08:59 INFO  Log:10 - in the Tear down function and quiting Driver
+2024-09-02 02:24:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\monty\git\testNgLearning\testng.xml
+
+2024-09-02 02:24:38 INFO  Log:10 - browser Value came from TestNG xml: chrome
+2024-09-02 02:24:38 INFO  Log:10 - browser Value came from env variable by command line xml: chrome
+2024-09-02 02:24:39 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-02 02:24:39 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\monty\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
+2024-09-02 02:24:41 INFO  Log:10 - Driver initiated
+2024-09-02 02:24:41 INFO  Log:10 - URL for the Class from TestNg XML as parameterhttps://www.saucedemo.com/v1/
+2024-09-02 02:24:41 INFO  Log:10 - URL https://www.saucedemo.com/v1/ launched
+2024-09-02 02:24:41 INFO  Log:10 - Entering User Name
+2024-09-02 02:24:41 INFO  Log:10 - in the Tear down function and quiting Driver
+2024-09-02 02:26:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\monty\git\testNgLearning\testng.xml
+
+2024-09-02 02:26:03 INFO  Log:10 - browser Value came from TestNG xml: chrome
+2024-09-02 02:26:03 INFO  Log:10 - browser Value came from env variable by command line xml: chrome
+2024-09-02 02:26:04 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-02 02:26:04 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\monty\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
+2024-09-02 02:26:06 INFO  Log:10 - Driver initiated
+2024-09-02 02:26:06 INFO  Log:10 - URL for the Class from TestNg XML as parameterhttps://www.saucedemo.com/v1/
+2024-09-02 02:26:06 INFO  Log:10 - URL https://www.saucedemo.com/v1/ launched
+2024-09-02 02:26:06 INFO  Log:10 - Entering User Name
+2024-09-02 02:26:06 INFO  Log:10 - Entering Password
+2024-09-02 02:26:06 INFO  Log:10 - Clicking Login button 
+2024-09-02 02:26:07 INFO  Log:10 - in the Tear down function and quiting Driver
